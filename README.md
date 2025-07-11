@@ -1,8 +1,8 @@
-# 🏓 Pong Game
+#  Pong Game
 
 A modern Python Pong game built with Pygame featuring AI opponent and multiplayer modes.
 
-## 🎮 Features
+##  Features
 
 - **Single Player vs AI**: Play against an intelligent computer opponent
 - **Multiplayer Mode**: Classic 2-player Pong experience
@@ -11,7 +11,7 @@ A modern Python Pong game built with Pygame featuring AI opponent and multiplaye
 - **Game Mode Selection**: Easy menu system to choose your preferred mode
 - **Restart Functionality**: Play multiple rounds without restarting
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.6 or higher
@@ -30,7 +30,7 @@ pip install pygame
 python ponggame.py
 ```
 
-## 🎯 How to Play
+##  How to Play
 
 ### Game Modes
 1. **Press `1`** - Single Player vs AI
@@ -50,7 +50,7 @@ python ponggame.py
 - **Space** - Start game / Restart after game over
 - **Close Window** - Exit game
 
-## 🎨 Game Features
+## Game Features
 
 ### AI Opponent
 - Intelligent ball prediction
@@ -70,14 +70,14 @@ python ponggame.py
 - White ball for clear visibility
 - Intuitive menu system
 
-## 🏆 Game Rules
+## Game Rules
 
 1. **Objective**: Prevent the ball from passing your paddle
 2. **Scoring**: First player to let the ball pass loses
 3. **Movement**: Paddles can move up and down within screen bounds
 4. **Physics**: Ball bounces off paddles and top/bottom walls
 
-## 🛠️ Technical Details
+## Technical Details
 
 - **Engine**: Pygame
 - **Language**: Python 3
@@ -85,14 +85,14 @@ python ponggame.py
 - **Frame Rate**: 60 FPS
 - **AI**: Predictive ball tracking with randomness
 
-## 🎯 Tips for Players
+## Tips for Players
 
 - **Single Player**: The AI is designed to be challenging but beatable
 - **Multiplayer**: Great for competitive play with friends
 - **Paddle Control**: Use smooth movements for better accuracy
 - **Ball Tracking**: Watch the ball's trajectory to predict its path
 
-## 🔧 Customization
+## Customization
 
 You can easily modify game parameters in the code:
 - Ball speed: Change `ball_accel_x` and `ball_accel_y` values
@@ -100,11 +100,11 @@ You can easily modify game parameters in the code:
 - AI difficulty: Modify randomness values in the bot logic
 - Colors: Change RGB values for different visual themes
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this repository and submit pull requests for improvements!
 
